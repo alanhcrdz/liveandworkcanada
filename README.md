@@ -1,17 +1,7 @@
-# Motivational Quotes App
-
+# Live and Work Canada App
 <img src="./src/assets/live-1.png" width="600" height="400" />
 <img src="./src/assets/live-2.png" width="600" height="400" />
 
-
-
-
-
-## Table of Contents
-- [Installation](#installation)
-- [App Features](#app-features)
-- [Contributing](#contributing)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
